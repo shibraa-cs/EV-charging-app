@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/lvContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="9">
+
+        <TextView
+            android:id="@+id/txtrefe"
+            android:background="@drawable/my_selector"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:text="NAME"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txtlate"
+            android:background="@drawable/my_selector"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:text="ISSN"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txtlong"
+            android:layout_width="0dp"
+            android:background="@drawable/my_selector"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:text="Long"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txttown"
+            android:background="@drawable/my_selector"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:text="town"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txtcoun"
+            android:background="@drawable/my_selector"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:text="coun"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txtpost"
+            android:background="@drawable/my_selector"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:text="POST"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txtchasta"
+            android:background="@drawable/my_selector"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:text="STAT"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txtconnid"
+            android:background="@drawable/my_selector"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:text="CONN"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txtconnty"
+            android:background="@drawable/my_selector"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="left"
+            android:padding="3dp"
+            android:text="TYPE"
+            android:textSize="13sp" />
+
+    </LinearLayout>
+</LinearLayout>
