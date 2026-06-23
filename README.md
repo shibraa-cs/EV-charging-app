@@ -27,7 +27,7 @@ An Android app that helps electric vehicle drivers find nearby charging stations
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/shibraa-cs/charging-app.git
+   git clone https://github.com/shibraa-cs/EV-charging-app.git
 
 2. **Open in android studio**
    Open Android Studio
