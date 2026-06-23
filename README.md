@@ -47,12 +47,12 @@ An Android app that helps electric vehicle drivers find nearby charging stations
    View locations on the interactive map
 
 **Getting a google maps api key**
-Go to Google Cloud Console
-Create a new project or select an existing one
-Enable the Maps SDK for Android API
-Go to Credentials → Create Credentials → API Key
-Restrict the key to Android apps for security
-Copy the key and add it to your projectGo to Google Cloud Console
+1. Go to Google Cloud Console
+2. Create a new project or select an existing one
+3. Enable the Maps SDK for Android API
+4. Go to Credentials → Create Credentials → API Key
+5. Restrict the key to Android apps for security
+6. Copy the key and add it to your projectGo to Google Cloud Console
 
 
 ## What I Learned
