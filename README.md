@@ -26,22 +26,27 @@ An Android app that helps electric vehicle drivers find nearby charging stations
 ### Step-by-Step Setup
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/shibraa-cs/EV-charging-app.git
+   Open git bash
+   Run:
+   ```cd desktop```
+   ```git clone https://github.com/shibraa-cs/EV-charging-app.git```
 
-2. **Open in android studio**
+2. **You'll now have a folder called EV-charging-app on your Desktop**
+   Open that folder in File Explorer – you'll see all your project files
+   
+3. **Open in android studio**
    Open Android Studio
    Click "Open an Existing Project"
    Select the cloned project folder
-3. **Add your google maps API key**
+4. **Add your google maps API key**
   Navigate to app/src/main/res/values/google_maps_api.xml
   Replace YOUR_API_KEY_HERE with your actual Google Maps API key
   For security, avoid hardcoding keys – use local.properties instead
-4. **Build and Run**
+5. **Build and Run**
    Connect an Android device via USB (with USB debugging enabled)
    OR start an Android Virtual Device (AVD) in Android Studio
    Click the green "Run" button (▶️) or press Shift + F10
-5. **Start exploring**
+6. **Start exploring**
    Register a new account or sign in
    Search for charging points near you
    View locations on the interactive map
