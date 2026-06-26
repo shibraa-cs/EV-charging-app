@@ -32,8 +32,8 @@ An Android app that helps electric vehicle drivers find nearby charging stations
 | ![Login](screenshots/login.png.png) | ![Register](screenshots/register.png.png) |
 
 ### Main App
-| Main List | Map View | Charging Point Details |
-|-----------|----------|------------------------|
+| Main List | Map View |  
+|-----------|----------|
 | ![Main List](screenshots/main-list.png.png) | ![Map View](screenshots/mapview-details.png.png) | 
 
 ### Search & Filter
