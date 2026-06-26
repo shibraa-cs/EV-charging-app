@@ -66,6 +66,11 @@ An Android app that helps electric vehicle drivers find nearby charging stations
 - Filtering database results based on user input
 - Handling map interactions and location data
 
+## 📊 Data Source
+The charging point data used in this app was provided as part of a university assignment. 
+The app imports this data from a CSV file and stores it locally using SQLite for fast 
+and offline access.
+
 This project was created as part of a university assignment. For educational and portfolio purposes only.
 
 ## Status
