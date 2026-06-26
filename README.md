@@ -33,7 +33,7 @@ An Android app that helps electric vehicle drivers find nearby charging stations
 
 ### Main App
 | Main List | Map View |  
-|-----------|----------|
+|-----------|------------------|
 | ![Main List](screenshots/main-list.png.png) | ![Map View](screenshots/mapview-detail.png.png) | 
 
 ### Search & Filter
