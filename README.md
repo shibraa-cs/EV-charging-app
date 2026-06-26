@@ -23,6 +23,24 @@ An Android app that helps electric vehicle drivers find nearby charging stations
 - Android SDK (installed via Android Studio)
 - A Google Maps API key (free to obtain from Google Cloud Console)
 
+
+## 📸 Screenshots
+
+### Authentication
+| Login Screen | Register Screen |
+|--------------|-----------------|
+| ![Login](screenshots/login.png.png) | ![Register](screenshots/register.png.png) |
+
+### Main App
+| Main List | Map View | Charging Point Details |
+|-----------|----------|------------------------|
+| ![Main List](screenshots/main-list.png.png) | ![Map View](screenshots/mapview-details.png.png) | 
+
+### Search & Filter
+| Search Results |
+|----------------|
+| ![Search](screenshots/search-results.png.png) |
+
 ### Step-by-Step Setup
 
 1. **Clone the repository**
